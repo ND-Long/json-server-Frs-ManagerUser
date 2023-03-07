@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "type": "mèo Anh lông dài (British Longhair), Ald, Scottish Fold (tai cụp), Munchkin (chân ngắn).",
+      "color": "vàng trắng.",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "characteristic": "tai cụp",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "213",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-1.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-2.png",
+      "id": 2
+    },
+    {
+      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
+      "color": "bicolor.",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "characteristic": "tai cụp.",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "123",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-3.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-2.png",
+      "id": 3
+    },
+    {
+      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
+      "color": "bi-cream.",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "characteristic": "tai cụp",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "245",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-2.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-2.png",
+      "id": 4
+    },
+    {
+      "type": "mèo ALN, mèo Munchkin (chân ngắn), Scottish Fold (tai cụp).",
+      "color": "xám xanh.",
+      "gender": "Cái",
+      "age": "1.5 tháng",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "147",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-2.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-2.png",
+      "id": 5
+    },
+    {
+      "type": "mèo Anh lông ngắn (British Shorthair).",
+      "color": "Silver.",
+      "gender": "Đực",
+      "age": "2 tháng.",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "224",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-5.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-2.png",
+      "id": 6
+    },
+    {
+      "type": "mèo ALN, mèo Munchkin (chân ngắn), Scottish Fold (tai cụp).",
+      "color": "Golden NY25, Silver.",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "687",
+      "image1": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-1.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-2.png",
+      "id": 7
+    },
+    {
+      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
+      "color": "lilac.",
+      "gender": "Cái",
+      "age": "2 tháng",
+      "characteristic": "tai cụp",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "335",
+      "image1": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-6.png",
+      "image2": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-1.png",
+      "image3": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-2.png",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "username": "$2a$10$U1SnJwc.oQhMAn4BBCNPcem16r7YjdqbVZGwZDcEDd2uX8v4Zfgk2",
+      "password": "$2a$10$vJzbWm.pXpIcJbOcyDB/auia39eRBMZ/2If6tMAmB4e82C/xZqSLq",
+      "name": "Admin Long",
+      "role": "admin",
+      "id": "1"
+    },
+    {
+      "username": "$2a$10$Pra4CxHmN8Pv5.OlByEb.OBqzo/4NlNRvnEfoKQ6yfJJrPszy/GJi",
+      "password": "$2a$10$Qqr6ZCRfXb6wDRICbEr9COn1lxN7wqq.UpRpgRapF/mPmi8TKIba.",
+      "id": "moweVeh"
+    }
+  ]
+}
