@@ -1,109 +1,206 @@
 {
   "products": [
     {
-      "type": "mèo Anh lông dài (British Longhair), Ald, Scottish Fold (tai cụp), Munchkin (chân ngắn).",
-      "color": "vàng trắng.",
+      "type": "Anh Lông Ngắn",
+      "color": "Xanh Xám",
       "gender": "Đực",
       "age": "3 tháng",
       "characteristic": "tai cụp",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "213",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-1.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/01/meo-anh-long-dai-chan-ngan-tai-cup-vang-trang-duc-2.png",
+      "price": "3000000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-2.jpg",
       "id": 2
     },
     {
-      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
-      "color": "bicolor.",
+      "type": "Anh Lông Ngắn",
+      "color": "Bicolor ",
       "gender": "Cái",
       "age": "3 tháng",
       "characteristic": "tai cụp.",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "123",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-3.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-scottish-bicolor-2.png",
+      "price": "3500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-3.jpg",
       "id": 3
     },
     {
-      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
-      "color": "bi-cream.",
-      "gender": "Đực",
+      "type": "Bengal ",
+      "color": "Brown",
+      "gender": "Cái",
       "age": "2 tháng",
       "characteristic": "tai cụp",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "245",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-2.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/03/meo-aln-tai-cup-bi-cream-duc-2.png",
+      "price": "2500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-3.jpg",
       "id": 4
     },
     {
-      "type": "mèo ALN, mèo Munchkin (chân ngắn), Scottish Fold (tai cụp).",
-      "color": "xám xanh.",
-      "gender": "Cái",
+      "type": "Bengal",
+      "color": "Brown Marble",
+      "gender": "Đực",
       "age": "1.5 tháng",
       "characteristic": "Không có",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "147",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-2.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/02/meo-munchkin-tai-cup-xam-xanh-2.png",
+      "price": "5000000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12065-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12065-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12065-6.jpg",
       "id": 5
     },
     {
-      "type": "mèo Anh lông ngắn (British Shorthair).",
-      "color": "Silver.",
-      "gender": "Đực",
-      "age": "2 tháng.",
+      "type": "Bengal",
+      "color": "Brown Spotted",
+      "gender": "Cái",
+      "age": "2 tháng",
       "characteristic": "Không có",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "224",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-5.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/02/meo-aln-mau-silver-duc-2.png",
+      "price": "4500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-3.jpg",
       "id": 6
     },
     {
-      "type": "mèo ALN, mèo Munchkin (chân ngắn), Scottish Fold (tai cụp).",
-      "color": "Golden NY25, Silver.",
+      "type": "Anh Lông Ngắn",
+      "color": "Tabby",
       "gender": "Đực",
       "age": "2 tháng",
       "characteristic": "Không có",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "687",
-      "image1": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-1.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2023/02/dan-3-meo-chan-ngan-tai-cup-sat-silver-golden-ny-25-2.png",
+      "price": "3700000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-5.jpg",
       "id": 7
     },
     {
-      "type": "mèo British Shorthair (ALN), Scottish (tai cụp).",
-      "color": "lilac.",
+      "type": "Anh Lông Ngắn",
+      "color": "Bicolor ",
       "gender": "Cái",
       "age": "2 tháng",
       "characteristic": "tai cụp",
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
-      "price": "335",
-      "image1": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-6.png",
-      "image2": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-1.png",
-      "image3": "https://dogily.vn/wp-content/uploads/2022/12/meo-aln-lilac-tai-cup-ma-banh-bao-2.png",
+      "price": "2900000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-5.jpg",
       "id": 8
+    },
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Silver",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "3700000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-4.jpg",
+      "id": 9
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Bicolor",
+      "gender": "Đực",
+      "age": "3.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "4500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-3.jpg",
+      "id": 10
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Lilac",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "3200000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-2.jpg",
+      "id": 11
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Xanh Xám",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "3100000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-4.jpg",
+      "id": 12
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Xanh Xám",
+      "gender": "Cái",
+      "age": "4 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "2700000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-2.jpg",
+      "id": 13
     }
   ],
   "users": [
     {
-      "username": "$2a$10$U1SnJwc.oQhMAn4BBCNPcem16r7YjdqbVZGwZDcEDd2uX8v4Zfgk2",
-      "password": "$2a$10$vJzbWm.pXpIcJbOcyDB/auia39eRBMZ/2If6tMAmB4e82C/xZqSLq",
-      "name": "Admin Long",
-      "role": "admin",
-      "id": "1"
+      "id": 1,
+      "username": "$2a$10$zTqc6Amyuc2R11zfn5YFwO7frfdGKVR/E/4Ce/vbNvx2hi0N9q.Oe",
+      "password": "$2a$10$nb5X5A5/Mw.kqa9nL4KWq.SJ0BpHoQAbQpMQYjCXe7dSSMGs/Q0tm",
+      "role": "admin"
     },
     {
-      "username": "$2a$10$Pra4CxHmN8Pv5.OlByEb.OBqzo/4NlNRvnEfoKQ6yfJJrPszy/GJi",
-      "password": "$2a$10$Qqr6ZCRfXb6wDRICbEr9COn1lxN7wqq.UpRpgRapF/mPmi8TKIba.",
-      "id": "moweVeh"
+      "username": "$2a$10$4GMpYotCGaT5o2iNi3Fbd.eCI.7Zv54Ircmz9aBU3hK2gnt0GJ0ty",
+      "password": "$2a$10$ZzugBXmbrwUZBk5jdPYFzOEi4UVYMAEB.Clx53intyJpb4VF41Uc.",
+      "id": 2
+    }
+  ],
+  "list-cart": [
+    {
+      "listCart": {
+        "code": 423432423,
+        "state": true,
+        "cart": [
+          {
+            "cartId": 2,
+            "quantity": 2,
+            "price": "3000000",
+            "image": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
+            "name": "Anh Lông Ngắn - Xanh Xám - Đực"
+          },
+          {
+            "cartId": 3,
+            "quantity": 3,
+            "price": "3500000",
+            "image": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
+            "name": "Anh Lông Ngắn - Bicolor  - Cái"
+          },
+          {
+            "cartId": 4,
+            "quantity": 3,
+            "price": "2500000",
+            "image": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
+            "name": "Bengal  - Brown - Cái"
+          }
+        ],
+        "totalPrice": 24000000
+      },
+      "id": 1
     }
   ]
 }
