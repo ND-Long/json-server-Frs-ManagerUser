@@ -168,6 +168,7 @@
       "username": "$2a$10$4GMpYotCGaT5o2iNi3Fbd.eCI.7Zv54Ircmz9aBU3hK2gnt0GJ0ty",
       "password": "$2a$10$ZzugBXmbrwUZBk5jdPYFzOEi4UVYMAEB.Clx53intyJpb4VF41Uc.",
       "id": 2
+<<<<<<< HEAD
     }
   ],
   "list-cart": [
@@ -400,6 +401,9 @@
       ],
       "totalPrice": 14000000,
       "id": 14
+=======
+>>>>>>> e81ec6caed6f4c926be83d922075439520e9281c
     }
-  ]
+  ],
+  "list-cart": []
 }
